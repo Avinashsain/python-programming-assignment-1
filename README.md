@@ -47,7 +47,18 @@ MONGO_URI=<your-mongodb-connection-string>
 ### 5. Run the application
 
 ```bash
-python app.py
-```
+### Question 1
+python check_password_strength.py
+
+### Question 2
+python monitor_server_health.py
+
+### Question 3
+python automating_configuration.py
 
 Open your browser at: [http://127.0.0.1:8082](http://127.0.0.1:8082)
+
+### Question 4
+python backup.py /Users/avinashsain/Documents/pythonProjects/source /Users/avinashsain/Documents/pythonProjects/destination
+
+```
